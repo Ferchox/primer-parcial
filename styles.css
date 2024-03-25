@@ -1,3 +1,20 @@
+body{
+    background-color: aqua;
+    font-size: large;
+    font-weight: 500;
+}
 .gameboard{
-    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aquamarine;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    background-color:blue;
 }
